@@ -11,6 +11,6 @@ namespace ProjectMahasiswa
             public string Nim { get; set; }
             public string Nama { get; set; }
             public string JenisKelamin { get; set; }
-            public string IPK { get; set; }
+            public float IPK { get; set; }
         }
 }
